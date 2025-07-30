@@ -1,0 +1,8 @@
+vAlpha-1.2.0
+
+Features:
+- added navigation buttons, show line or focus camera on selected planet
+- due to popular demand, rotational acceleration is now weaker (cronge)
+
+Fixes:
+- none! everything works perfectly, trust
