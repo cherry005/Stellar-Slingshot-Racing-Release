@@ -1,8 +1,10 @@
-vAlpha-1.2.0
+vAlpha-1.3.0
 
 Features:
-- added navigation buttons, show line or focus camera on selected planet
-- due to popular demand, rotational acceleration is now weaker (cronge)
+- added first gameplay bit, now generates race gates which you have to fly through to "win"
+  more gameplay things are planned, mostly fuel constraint and a timer, to a) make slingshots more important and b) actually have some sort of racing aspect
+  when these are done, the game is going to enter beta, i guess
+- put in some information in the godot export template, internet people say it might help with windows defender warning, idk if true tho (i dont get the warning)
 
 Fixes:
 - none! everything works perfectly, trust
