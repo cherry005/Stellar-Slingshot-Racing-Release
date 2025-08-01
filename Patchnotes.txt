@@ -1,10 +1,23 @@
-vAlpha-1.3.0
+WAHOO! YIPPEE! It's Beta time (because it has a core gameplay loop now and because I say so). It'll probably stay like this for a while, there's still tons of things to add and polish up for full release, but as an appetizer I have a...
 
+Roadmap:
+- add a start and pause menu
+- start menu should give option to use a preset seed to compare to friends
+- some kind of difficulty options, either preset or free to choose (example: fuel amount)
+- second game mode?!? o.o
+- general polish
+- find and fix bugs
+- make keybinds changeable
+
+Beta-1.0.0
 Features:
-- added first gameplay bit, now generates race gates which you have to fly through to "win"
-  more gameplay things are planned, mostly fuel constraint and a timer, to a) make slingshots more important and b) actually have some sort of racing aspect
-  when these are done, the game is going to enter beta, i guess
-- put in some information in the godot export template, internet people say it might help with windows defender warning, idk if true tho (i dont get the warning)
+- added stopwatch at top
+- added fuel bar for main engine, currently set to 300 seconds of thrust, subject to change
+- added more/alternative keyboard controls for camera, plus/minus to zoom, backspace to refocus on ship (in addition to home-key)
 
 Fixes:
 - none! everything works perfectly, trust
+
+Other:
+- dropped the v from the version number, ruins flow and pretty much unnecessary, I think this still doesn't quite fit the usual versioning conventions, but my game my rules
+- made a readme for the git, contains default controls instead of a screenshot
