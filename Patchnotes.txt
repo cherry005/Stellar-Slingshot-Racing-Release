@@ -1,23 +1,15 @@
-WAHOO! YIPPEE! It's Beta time (because it has a core gameplay loop now and because I say so). It'll probably stay like this for a while, there's still tons of things to add and polish up for full release, but as an appetizer I have a...
+Beta-1.1.0
 
-Roadmap:
-- add a start and pause menu
-- start menu should give option to use a preset seed to compare to friends
-- some kind of difficulty options, either preset or free to choose (example: fuel amount)
-- second game mode?!? o.o
-- general polish
-- find and fix bugs
-- make keybinds changeable
-
-Beta-1.0.0
 Features:
-- added stopwatch at top
-- added fuel bar for main engine, currently set to 300 seconds of thrust, subject to change
-- added more/alternative keyboard controls for camera, plus/minus to zoom, backspace to refocus on ship (in addition to home-key)
+- added main menu when starting
+- added settings menu, with graphics option (just one), placeholder audio options and control rebinds
+note: currently no way to exit game once you start from main menu, you will have to close and relaunch whole thing, also the controls dont get 
+saved for next time, kinda forgot about that, will be done
+- added proper icon for exe instead of default Godot icon
 
 Fixes:
 - none! everything works perfectly, trust
 
 Other:
-- dropped the v from the version number, ruins flow and pretty much unnecessary, I think this still doesn't quite fit the usual versioning conventions, but my game my rules
-- made a readme for the git, contains default controls instead of a screenshot
+- found out i can just embed the .pck file in the exe, idk why it's not default, but i've done that now, so no more .pck which
+- there's probably no way past the windows defender warning, since a certificate costs a shit ton of money
