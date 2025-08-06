@@ -1,15 +1,7 @@
-Beta-1.1.0
+Beta-1.1.1
 
 Features:
-- added main menu when starting
-- added settings menu, with graphics option (just one), placeholder audio options and control rebinds
-note: currently no way to exit game once you start from main menu, you will have to close and relaunch whole thing, also the controls dont get 
-saved for next time, kinda forgot about that, will be done
-- added proper icon for exe instead of default Godot icon
+- remove keybinds with mouse right click
 
 Fixes:
-- none! everything works perfectly, trust
-
-Other:
-- found out i can just embed the .pck file in the exe, idk why it's not default, but i've done that now, so no more .pck which
-- there's probably no way past the windows defender warning, since a certificate costs a shit ton of money
+- rewind hint after crashing now shows set primary key, instead of default
