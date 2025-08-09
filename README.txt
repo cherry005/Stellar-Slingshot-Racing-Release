@@ -28,7 +28,7 @@ Rewind : ,
 Advance : .
 
 ###Roadmap###
-as of beta-1.1.0:
+as of beta-1.1.2:
 
 - add a start and pause menu 									| in progress
 - start menu should give option to use a preset seed to compare to friends
@@ -36,4 +36,4 @@ as of beta-1.1.0:
 - second game mode?!? o.o
 - general polish
 - find and fix bugs
-- make keybinds changeable									| in progress
+- make keybinds changeable									| done

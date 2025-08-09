@@ -1,7 +1,5 @@
-Beta-1.1.1
+Beta-1.1.2
 
 Features:
-- remove keybinds with mouse right click
-
-Fixes:
-- rewind hint after crashing now shows set primary key, instead of default
+- settings can now be saved, they can be found under %appdata%/Godot/Stellar Slingshot Racing/settings.cfg, you can revert to default settings by deleting this file
+- saved settings will always be applied on next launch
