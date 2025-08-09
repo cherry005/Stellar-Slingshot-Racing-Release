@@ -1,5 +1,8 @@
-Beta-1.1.2
+Beta-1.1.3
 
 Features:
-- settings can now be saved, they can be found under %appdata%/Godot/Stellar Slingshot Racing/settings.cfg, you can revert to default settings by deleting this file
-- saved settings will always be applied on next launch
+- add pause menu ingame, press Escape to open it
+  Note: Quitting to main menu and starting a new race, will regenerate everything
+
+Fixes:
+- fuel bar background now correctly scaled when resizing from main menu

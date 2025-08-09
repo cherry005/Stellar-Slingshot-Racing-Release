@@ -28,9 +28,9 @@ Rewind : ,
 Advance : .
 
 ###Roadmap###
-as of beta-1.1.2:
+as of beta-1.1.3:
 
-- add a start and pause menu 									| in progress
+- add a start and pause menu 									| mostly done, still something planned for difficulty options
 - start menu should give option to use a preset seed to compare to friends
 - some kind of difficulty options, either preset or free to choose (example: fuel amount)	
 - second game mode?!? o.o
