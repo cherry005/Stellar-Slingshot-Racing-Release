@@ -1,8 +1,10 @@
-Beta-1.1.3
+Beta-1.2.0
 
 Features:
-- add pause menu ingame, press Escape to open it
-  Note: Quitting to main menu and starting a new race, will regenerate everything
+- added settings menu before starting a race, with options for fuel, starting speed and generation seed, which also shows preview of the star system
+- win screen now shows time at passing last gate
 
 Fixes:
-- fuel bar background now correctly scaled when resizing from main menu
+- fixed camera zoom, also added zoom out limit
+- rewind hint after crashing now scaled correctly for possibly changed input key
+- "Exit" button in settings now actually reverts to previous settings
