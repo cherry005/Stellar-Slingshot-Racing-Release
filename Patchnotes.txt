@@ -1,10 +1,8 @@
-Beta-1.2.0
+Beta-1.2.1
 
 Features:
-- added settings menu before starting a race, with options for fuel, starting speed and generation seed, which also shows preview of the star system
-- win screen now shows time at passing last gate
+- reworked star system generation, should make future changes way easier and makes code cleaner
 
 Fixes:
-- fixed camera zoom, also added zoom out limit
-- rewind hint after crashing now scaled correctly for possibly changed input key
-- "Exit" button in settings now actually reverts to previous settings
+- timer used to flash sometimes when the number was 1 character longer than intended, this should no longer happen
+- resume button in pause menu is now above settings button, idk what i was thinking
