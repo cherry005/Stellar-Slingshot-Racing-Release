@@ -1,8 +1,12 @@
-Beta-1.2.1
+Beta-2.0.0
+
+Holy shit it's finally done, I hope it'll be worth it frfr
 
 Features:
-- reworked star system generation, should make future changes way easier and makes code cleaner
+- upgraded to Godot 4.4.1, including rebuilding and fixing a lot of stuff
+- made custom gravity since the new built-in system didnt work for this game, gravity now stronger in general and especially near celestial bodies
+- optimized path drawing (aka dont draw things that arent visible)
 
-Fixes:
-- timer used to flash sometimes when the number was 1 character longer than intended, this should no longer happen
-- resume button in pause menu is now above settings button, idk what i was thinking
+Also be aware that the settings file is reset to default values, because the way Godot 4 saves keybinds is different from Godot 3 and it's easiest to just regenerate
+the file. The old one is still in "$appdata$\Godot\app_userdata\Stellar Slingshot Racing", just renamed to "settings_prevVersion.cfg", not that it's any helpful since
+it's not really readable.

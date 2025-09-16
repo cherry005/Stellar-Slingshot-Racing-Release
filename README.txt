@@ -32,7 +32,7 @@ as of beta-1.2.1
 
 - add a start and pause menu 									| done until i add audio
 - start menu should give option to use a preset seed to compare to friends			| done
-- some kind of difficulty options, either preset or free to choose (example: fuel amount)	
+- some kind of difficulty options, either preset or free to choose (example: fuel amount)	| kinda done?
 - second game mode?!? o.o
 - general polish
 - find and fix bugs										| will never be done
