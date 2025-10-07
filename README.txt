@@ -28,12 +28,12 @@ Rewind : ,
 Advance : .
 
 ###Roadmap###
-as of beta-1.2.1
+as of beta-2.1.0
 
-- add a start and pause menu 									| done until i add audio
-- start menu should give option to use a preset seed to compare to friends			| done
-- some kind of difficulty options, either preset or free to choose (example: fuel amount)	| kinda done?
+- add a start and pause menu and settings 							| done until i add audio
+- start menu should give option to use a preset seed to compare to friends			| even more done
+- some kind of difficulty options, either preset or free to choose (example: fuel amount)	| done
 - second game mode?!? o.o
-- general polish
+- general polish										
 - find and fix bugs										| will never be done
 - make keybinds changeable									| done

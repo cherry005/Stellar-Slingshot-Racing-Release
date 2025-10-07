@@ -1,12 +1,6 @@
-Beta-2.0.0
-
-Holy shit it's finally done, I hope it'll be worth it frfr
+Beta-2.1.0
 
 Features:
-- upgraded to Godot 4.4.1, including rebuilding and fixing a lot of stuff
-- made custom gravity since the new built-in system didnt work for this game, gravity now stronger in general and especially near celestial bodies
-- optimized path drawing (aka dont draw things that arent visible)
-
-Also be aware that the settings file is reset to default values, because the way Godot 4 saves keybinds is different from Godot 3 and it's easiest to just regenerate
-the file. The old one is still in "$appdata$\Godot\app_userdata\Stellar Slingshot Racing", just renamed to "settings_prevVersion.cfg", not that it's any helpful since
-it's not really readable.
+- upgraded Godot 4.5, tho i just read that this isnt usually worth it, oh well, gonna be last major version for this project then, dont think it broke anything
+- added options for amount of planets and moons per planet (in stupid textfields instead of beautiful ranged sliders sigh)
+  this fucked up the preview cuz it wasnt meant to handle this many things, imma fix it soon, just had to get something out
