@@ -1,6 +1,13 @@
-Beta-2.1.0
+Beta-2.1.1
 
 Features:
-- upgraded Godot 4.5, tho i just read that this isnt usually worth it, oh well, gonna be last major version for this project then, dont think it broke anything
-- added options for amount of planets and moons per planet (in stupid textfields instead of beautiful ranged sliders sigh)
-  this fucked up the preview cuz it wasnt meant to handle this many things, imma fix it soon, just had to get something out
+- added decorative asteroid belt, I made the sprites at the beginning and finally got to use them, this can take a few seconds to generate
+- pause menu now shows seed
+- added hint to planet/moon range setting for min/max values and set proper default values
+
+Fixes:
+- fixed preview, now dynamically adjusts to number of planets
+- min and max values can now be set to same value to choose exact number of generated planets/moons
+- pause menu correctly drawn over hud (its supposed to be darker, it wasnt, now it is again)
+- camera no longer movable while in pause menu
+- increased default starting speed to 2500, to start in a relatively stable orbit (depending on planets)
